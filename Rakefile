@@ -5,8 +5,8 @@ require "bundler/setup"
 require "jekyll"
 
 
-# Change your GitHub reponame eg. "kippt/jekyll-incorporated"
-GITHUB_REPONAME = ""
+# Change your GitHub reponame
+GITHUB_REPONAME = "trentfowler/containercraft.github.io"
 
 
 namespace :site do
